@@ -12,7 +12,7 @@
   // freshly provisioned namespace. Deploying manually? Run
   // `npx wrangler kv namespace create OAUTH_KV` and paste the real id here.
   "kv_namespaces": [
-    { "binding": "OAUTH_KV", "id": "PLACEHOLDER_REPLACED_ON_DEPLOY" }
+    { "binding": "OAUTH_KV", "id": "84fc032820f64856a3d45d92f57c61d0" }
   ],
   "durable_objects": {
     "bindings": [
